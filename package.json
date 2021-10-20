@@ -7,11 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "node",
+    "mp4 to gif",
+    "converter",
+    "mp4 to gif converter",
+    "mp4 converter",
+    "gif converter"
+  ],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@ffprobe-installer/ffprobe": "^1.2.0",
     "fluent-ffmpeg": "^2.1.2"
