@@ -1,4 +1,4 @@
-# Tool created to help convert .mp4 videos to gifs
+# Tool created to help converting .mp4 videos to gifs
 
 Usage:
 * 1. Install dependencies
